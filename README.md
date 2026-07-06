@@ -38,7 +38,7 @@ Welcome to my digital workspace! I am an MCA student bridging the gap between co
 
 ### 📊 My GitHub Journey
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anniejoycedev-noob&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Annie's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-six.vercel.app/api?username=anniejoycedev-noob&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Annie's GitHub Stats" height="160" />
 </p>
 
 ---
