@@ -14,17 +14,17 @@ Welcome to my digital workspace! I am an MCA student bridging the gap between co
 
 ### Technical Toolkit
 #### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloud Storage](https://img.shields.io/badge/Object_Storage/S3_Bins-FF9900?style=for-the-badge&logo=amazons3&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FFFDD0?style=for-the-badge&logo=amazon-aws&logoColor=FDBE2A)
+![Cloud Storage](https://img.shields.io/badge/Object_Storage/S3_Bins-FFC0CB?style=for-the-badge&logo=amazons3&logoColor=FF1493)
 
-#### Automation & Scripting
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 📜 Automation & Scripting
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF9A1?style=for-the-badge&logo=javascript&logoColor=E8A317)
+![Python](https://img.shields.io/badge/Python-FFC9D1?style=for-the-badge&logo=python&logoColor=FF4D6D)
 
-#### Development & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI_Assisted_Dev-000000?style=for-the-badge&logo=openai&logoColor=white)
+#### ⚙️ Development & Workflow
+![Git](https://img.shields.io/badge/Git-FFFDD0?style=for-the-badge&logo=git&logoColor=E0C475)
+![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=D11D60)
+![AI Tools](https://img.shields.io/badge/AI_Assisted_Dev-FFE4E1?style=for-the-badge&logo=openai&logoColor=C99A9A)
 
 ---
 
@@ -38,7 +38,7 @@ Welcome to my digital workspace! I am an MCA student bridging the gap between co
 
 ### 📊 My GitHub Journey
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anniejoycedev-noob&show_icons=true&theme=rose&hide_border=true" alt="Annie's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anniejoycedev-noob&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Annie's GitHub Stats" height="160" />
 </p>
 
 ---
