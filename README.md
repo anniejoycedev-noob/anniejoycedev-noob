@@ -16,43 +16,38 @@
 
 </div>
 
-<hr style="border: 1px solid #ffd700;">
+---
 
 ### ✨ About Me
 Welcome to my digital sanctuary! I am an aspiring engineer weaving elegant logic into cloud infrastructures. I love learning about automation systems while embracing the art of minimalist design.
 
-- 👩‍💻 **Current Pursuit:** MCA Student diving deep into computer applications and scalable architecture concepts.
-- 💡 **Interests:** Artificial Intelligence, Cloud infrastructure security, and automation processes.
-- 🌱 **Learning Journey:** Currently building my foundation and expanding my technical roadmap day by day!
-- 🎨 **Vibe:** Aesthetics mixed with highly structured logic.
+* 👩‍💻 **Current Pursuit:** MCA Student diving deep into computer applications and scalable architecture concepts.
+* 💡 **Interests:** Artificial Intelligence, Cloud infrastructure security, and automation processes.
+* 🌱 **Learning Journey:** Currently building my foundation and expanding my technical roadmap day by day!
+* 🎨 **Vibe:** Aesthetics mixed with highly structured logic.
 
-<hr style="border: 1px solid #ffd700;">
+---
 
 ### 🗺️ Future Tech Toolbox (My Learning Roadmap)
-Here are the programming languages and DevOps technologies I am currently studying and planning to master:
+Here are the programming languages and DevOps technologies I am currently studying and planning to master, styled in a beautiful pastel blush palette:
 
-<table>
-  <tr>
-    <td align="center" width="25%" style="border: 1px solid #ffd700; background-color: #fffaf0;">
-      <img src="https://skillicons.dev/icons?i=js,python,java&theme=light" style="background-color: #ffe4e1; border-radius: 8px; padding: 4px;" /><br>
-      <span style="color: #b8860b;"><b>Languages to Master</b></span>
-    </td>
-    <td align="center" width="25%" style="border: 1px solid #ffd700; background-color: #fffaf0;">
-      <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=light" style="background-color: #ffe4e1; border-radius: 8px; padding: 4px;" /><br>
-      <span style="color: #b8860b;"><b>Cloud & DevOps Goals</b></span>
-    </td>
-    <td align="center" width="25%" style="border: 1px solid #ffd700; background-color: #fffaf0;">
-      <img src="https://skillicons.dev/icons?i=git,linux,bash&theme=light" style="background-color: #ffe4e1; border-radius: 8px; padding: 4px;" /><br>
-      <span style="color: #b8860b;"><b>Core Tools</b></span>
-    </td>
-    <td align="center" width="25%" style="border: 1px solid #ffd700; background-color: #fffaf0;">
-      <img src="https://skillicons.dev/icons?i=html,css,react&theme=light" style="background-color: #ffe4e1; border-radius: 8px; padding: 4px;" /><br>
-      <span style="color: #b8860b;"><b>Frontend Art</b></span>
-    </td>
-  </tr>
-</table>
+#### 🌸 Languages to Master
+![](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white) 
+![](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<hr style="border: 1px solid #ffd700;">
+#### 🪐 Cloud & DevOps Goals
+![](https://img.shields.io/badge/AWS-FFB6C1?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![](https://img.shields.io/badge/Docker-FFC0CB?style=for-the-badge&logo=docker&logoColor=white) 
+![](https://img.shields.io/badge/GitHub_Actions-FFD1DC?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### 🎀 Core Tools & Frontend Art
+![](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white) 
+![](https://img.shields.io/badge/Linux-FFC0CB?style=for-the-badge&logo=linux&logoColor=white) 
+![](https://img.shields.io/badge/React-FFD1DC?style=for-the-badge&logo=react&logoColor=white) 
+![](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ### 📊 My Github Constellation
 
@@ -66,7 +61,7 @@ Here are the programming languages and DevOps technologies I am currently studyi
 
 <br>
 
-<hr style="border: 1px solid #ffd700;">
+---
 
 <div align="center">
   <p>✨ <i>"May your learning journey be rewarding, your code clean, and your day filled with sparkles."</i> ✨</p>
