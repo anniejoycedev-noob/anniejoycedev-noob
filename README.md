@@ -1,63 +1,62 @@
 <div align="center">
 
-  <img src="https://kazzkiq.github.io/svg-color-filter/svg-banner.svg?text=✨%20Code%20&%20Create%20✨&color=ffe4e1" width="100%" alt="Banner Placeholder" onerror="this.src='https://dummyimage.com/800x180/ffe4e1/b8860b.png&text=✨+Code+&+Create+✨'" />
+  <!-- Elegant Minimalist Header -->
+  <p align="center">
+    <font size="6" color="#B8860B">✨ ─── <i>🌸 R. Annie Joyce 🌸</i> ─── ✨</font><br>
+    <b>Cloud & DevOps Engineer | AI-Driven Automation Enthusiast</b>
+  </p>
 
-  <br><br>
-
-  <h1>🌸 Hello, I'm R. Annie Joyce 🌸</h1>
-  <p><i>Cloud & DevOps Engineer | Aspiring to Build Resilient Systems at Scale | AI-Driven Automation Enthusiast</i></p>
-
-  <img src="https://img.shields.io/badge/Location-Vishakapatnam,%20IN-ffb6c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-d8bfd8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Aesthetic-Elegant%20%26%20Sweet-fff0f5?style=flat-square" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/📍%20Vizag%2C%20IN-FFB6C1?style=flat-square&logoColor=333333" alt="Location" />
+    <img src="https://img.shields.io/badge/🎓%20BCA%20%E2%86%92%20MCA-D8BFD8?style=flat-square&logoColor=333333" alt="Education" />
+  </p>
 
 </div>
 
 ---
 
-### ✨ About Me
-Welcome to my digital sanctuary! I am an aspiring engineer weaving elegant logic into cloud infrastructures. I love learning about automation systems while embracing the art of minimalist design.
+### 🌸 Professional Profile
 
-* 👩‍💻 **Current Pursuit:** MCA Student diving deep into computer applications and scalable architecture concepts.
-* 💡 **Interests:** Artificial Intelligence, Cloud infrastructure security, and automation processes.
-* 🌱 **Learning Journey:** Currently building my foundation and expanding my technical roadmap day by day!
-* 🎨 **Vibe:** Aesthetics mixed with highly structured logic.
+Welcome to my digital space. I am a software engineering student specializing in cloud infrastructure, automated workflow systems, and resilient engineering at scale. My approach combines meticulous, logical back-end design with a clean, structured, and elegant presentation philosophy.
 
----
-
-### 🗺️ Future Tech Toolbox (My Learning Roadmap)
-Here are the programming languages and DevOps technologies I am currently studying and planning to master:
-
-#### 🌸 Languages to Master
-![](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white) 
-![](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=white) 
-![](https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🪐 Cloud & DevOps Goals
-![](https://img.shields.io/badge/AWS-FFB6C1?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![](https://img.shields.io/badge/Docker-FFC0CB?style=for-the-badge&logo=docker&logoColor=white) 
-![](https://img.shields.io/badge/GitHub_Actions-FFD1DC?style=for-the-badge&logo=github-actions&logoColor=white)
-
-#### 🎀 Core Tools & Frontend Art
-![](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white) 
-![](https://img.shields.io/badge/Linux-FFC0CB?style=for-the-badge&logo=linux&logoColor=white) 
-![](https://img.shields.io/badge/React-FFD1DC?style=for-the-badge&logo=react&logoColor=white) 
-![](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
+* **Academic Foundation** ── Pursuing a Master of Computer Applications (MCA) program with a core focus on advanced software architectures and systems optimization.
+* **Engineering Mindset** ── Intrigued by infrastructure automation, continuous integration models, and AI-driven efficiency pipelines.
+* **Core Philosophy** ── Striving to build scalable, production-ready solutions while maintaining highly organized and elegant code.
 
 ---
 
-### 📊 My Github Constellation
+### 🪐 Technical Learning Roadmap
+
+I am actively structuring my engineering toolkit around these core domains. These modern, oversized square bubble tags are arranged cleanly without any ugly borders or stiff grids:
+
+#### 🎀 Core Languages & Cloud Architecture
+<img src="https://img.shields.io/badge/-JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=333333" height="35" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Python-FFC0CB?style=for-the-badge&logo=python&logoColor=333333" height="35" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=333333" height="35" /> &nbsp; 
+<img src="https://img.shields.io/badge/-AWS-FFB6C1?style=for-the-badge&logo=amazon-aws&logoColor=333333" height="35" />
+
+#### ☁️ DevOps Systems & Frontend Art
+<img src="https://img.shields.io/badge/-Docker-FFC0CB?style=for-the-badge&logo=docker&logoColor=333333" height="35" /> &nbsp; 
+<img src="https://img.shields.io/badge/-GitHub_Actions-FFD1DC?style=for-the-badge&logo=github-actions&logoColor=333333" height="35" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Linux-FFB6C1?style=for-the-badge&logo=linux&logoColor=333333" height="35" /> &nbsp; 
+<img src="https://img.shields.io/badge/-React-FFC0CB?style=for-the-badge&logo=react&logoColor=333333" height="35" />
+
+---
+
+### 📊 Modern Architectural Activity Stream
+
+Below is a live, real-time visualization of my deployment runs and commit history, a graph that updates dynamically:
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anniejoycedev-noob&show_icons=true&theme=rose&bg_color=fff5f5&title_color=b8860b&text_color=5c5c5c&icon_color=ffb6c1&border_color=ffd700" alt="Annie's GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anniejoycedev-noob&layout=compact&theme=rose&bg_color=fff5f5&title_color=b8860b&text_color=5c5c5c&border_color=ffd700" alt="Top Languages" height="180" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anniejoycedev-noob&bg_color=FFF5F5&color=B8860B&line=B8860B&point=FFC0CB&area=true&hide_border=true" width="100%" alt="Modern Rose Gold Activity Graph" />
 </div>
 
 <br>
 
+
 ---
 
 <div align="center">
-  <p>✨ <i>"May your learning journey be rewarding, your code clean, and your day filled with sparkles."</i> ✨</p>
+  <p style="color: #B8860B;">✨ <i>"Building smooth systems with elegant logic and resilient architecture."</i> ✨</p>
 </div>
