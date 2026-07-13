@@ -43,20 +43,6 @@ I am actively structuring my engineering toolkit around these core domains. Thes
 
 ---
 
-### 📊 Modern Architectural Activity Stream
-
-Below is a live, real-time visualization of my deployment runs and commit history, a graph that updates dynamically:
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anniejoycedev-noob&bg_color=FFF5F5&color=B8860B&line=B8860B&point=FFC0CB&area=true&hide_border=true" width="100%" alt="Modern Rose Gold Activity Graph" />
-</div>
-
-<br>
-
-
----
-
 <div align="center">
   <p style="color: #B8860B;">✨ <i>"Building smooth systems with elegant logic and resilient architecture."</i> ✨</p>
 </div>
